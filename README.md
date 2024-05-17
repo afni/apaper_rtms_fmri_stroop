@@ -3,10 +3,10 @@
 This repository provides scripts and code used in the following paper, 
 which combines task-based fMRI (Stroop task) with rTMS modulation:
 
-  Beynel L, Gura H, Rezaee Z, Ekpo E, DengZ-D, Joseph J, Taylor P, 
-  Luber B, Lisanby, SH (2023)What is the best way to target rTMS?  
-  Lessons learned from a replication attempt on fMRI-guided rTMS 
-  modulation of the numerical Stroop task. (*submitted*)
+*  Beynel L, Gura H, Rezaee Z, Ekpo EC, Deng ZD, Joseph JO, Taylor P,
+   Luber B, Lisanby SH (2024). Lessons learned from an fMRI-guided rTMS
+   study on performance in a numerical Stroop task. PLoS One.
+   19(5):e0302660. doi: 10.1371/journal.pone.0302660.
 
 The MRI dataset processing here primarily uses AFNI (Cox, 1996).
 
